@@ -1,0 +1,29 @@
+.citySelector {
+  transition: transform 1s;
+  transform: rotate(0);
+  position: relative;
+}
+
+.container>div {
+  position: absolute;
+}
+
+.container.second {
+  transform: rotate(120deg);
+}
+
+.container.third {
+  transform: rotate(240deg);
+}
+
+.container .first {
+  bottom: 0;
+  right: 0;
+  transform: rotate(120deg);
+}
+
+.container .second {
+  left: 0;
+  right: 0;
+  transform: rotate(240deg);
+}

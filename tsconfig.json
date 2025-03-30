@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "types": [
+      "@types/jest"
+    ]
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
