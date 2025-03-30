@@ -11,10 +11,12 @@ Queria crear los componentes de manera modular pero al ser tan pequeños obviame
 Faltan por hacer test significativos deje un mock por ahi para hacer test de la api y simplemente no me dio mucho tiempo a hacer mas que algun test de renderizar contenido
 
 
-para lanzar la aplicacion o en devÑ
+para lanzar la aplicacion o en dev
+
  ``` npm run dev ```
 
  o haciendo una build
+ 
 ```
   npm run build
   npm run preview
